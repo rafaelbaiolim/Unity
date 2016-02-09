@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: 56fd5b96bd34d7c408aae8c3b9ee5433
+timeCreated: 1454939111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New-Richter-Belmont_original-Serio-color_0
+    21300002: New-Richter-Belmont_original-Serio-color_1
+    21300004: New-Richter-Belmont_original-Serio-color_2
+    21300006: New-Richter-Belmont_original-Serio-color_3
+    21300008: New-Richter-Belmont_original-Serio-color_4
+    21300010: New-Richter-Belmont_original-Serio-color_5
+    21300012: New-Richter-Belmont_original-Serio-color_6
+    21300014: New-Richter-Belmont_original-Serio-color_7
+    21300016: New-Richter-Belmont_original-Serio-color_8
+    21300018: New-Richter-Belmont_original-Serio-color_9
+    21300020: New-Richter-Belmont_original-Serio-color_10
+    21300022: New-Richter-Belmont_original-Serio-color_11
+    21300024: New-Richter-Belmont_original-Serio-color_12
+    21300026: New-Richter-Belmont_original-Serio-color_13
+    21300028: New-Richter-Belmont_original-Serio-color_14
+    21300030: New-Richter-Belmont_original-Serio-color_15
+    21300032: New-Richter-Belmont_original-Serio-color_16
+    21300034: New-Richter-Belmont_original-Serio-color_17
+    21300036: New-Richter-Belmont_original-Serio-color_18
+    21300038: New-Richter-Belmont_original-Serio-color_19
+    21300040: New-Richter-Belmont_original-Serio-color_20
+    21300042: New-Richter-Belmont_original-Serio-color_21
+    21300044: New-Richter-Belmont_original-Serio-color_22
+    21300046: New-Richter-Belmont_original-Serio-color_23
+    21300048: New-Richter-Belmont_original-Serio-color_24
+    21300050: New-Richter-Belmont_original-Serio-color_25
+    21300052: New-Richter-Belmont_original-Serio-color_26
+    21300054: New-Richter-Belmont_original-Serio-color_27
+    21300056: New-Richter-Belmont_original-Serio-color_28
+    21300058: New-Richter-Belmont_original-Serio-color_29
+    21300060: New-Richter-Belmont_original-Serio-color_30
+    21300062: New-Richter-Belmont_original-Serio-color_31
+    21300064: New-Richter-Belmont_original-Serio-color_32
+    21300066: New-Richter-Belmont_original-Serio-color_33
+    21300068: New-Richter-Belmont_original-Serio-color_34
+    21300070: New-Richter-Belmont_original-Serio-color_35
+    21300072: New-Richter-Belmont_original-Serio-color_36
+    21300074: New-Richter-Belmont_original-Serio-color_37
+    21300076: New-Richter-Belmont_original-Serio-color_38
+    21300078: New-Richter-Belmont_original-Serio-color_39
+    21300080: New-Richter-Belmont_original-Serio-color_40
+    21300082: New-Richter-Belmont_original-Serio-color_41
+    21300084: New-Richter-Belmont_original-Serio-color_42
+    21300086: New-Richter-Belmont_original-Serio-color_43
+    21300088: New-Richter-Belmont_original-Serio-color_44
+    21300090: New-Richter-Belmont_original-Serio-color_45
+    21300092: New-Richter-Belmont_original-Serio-color_46
+    21300094: New-Richter-Belmont_original-Serio-color_47
+    21300096: New-Richter-Belmont_original-Serio-color_48
+    21300098: New-Richter-Belmont_original-Serio-color_49
+    21300100: New-Richter-Belmont_original-Serio-color_50
+    21300102: New-Richter-Belmont_original-Serio-color_51
+    21300104: New-Richter-Belmont_original-Serio-color_52
+    21300106: New-Richter-Belmont_original-Serio-color_53
+    21300108: New-Richter-Belmont_original-Serio-color_54
+    21300110: New-Richter-Belmont_original-Serio-color_55
+    21300112: New-Richter-Belmont_original-Serio-color_56
+    21300114: New-Richter-Belmont_original-Serio-color_57
+    21300116: New-Richter-Belmont_original-Serio-color_58
+    21300118: New-Richter-Belmont_original-Serio-color_59
+    21300120: New-Richter-Belmont_original-Serio-color_60
+    21300122: New-Richter-Belmont_original-Serio-color_61
+    21300124: New-Richter-Belmont_original-Serio-color_62
+    21300126: New-Richter-Belmont_original-Serio-color_63
+    21300128: New-Richter-Belmont_original-Serio-color_64
+    21300130: New-Richter-Belmont_original-Serio-color_65
+    21300132: New-Richter-Belmont_original-Serio-color_66
+    21300134: New-Richter-Belmont_original-Serio-color_67
+    21300136: New-Richter-Belmont_original-Serio-color_68
+    21300138: New-Richter-Belmont_original-Serio-color_69
+    21300140: New-Richter-Belmont_original-Serio-color_70
+    21300142: New-Richter-Belmont_original-Serio-color_71
+    21300144: New-Richter-Belmont_original-Serio-color_72
+    21300146: New-Richter-Belmont_original-Serio-color_73
+    21300148: New-Richter-Belmont_original-Serio-color_74
+    21300150: New-Richter-Belmont_original-Serio-color_75
+    21300152: New-Richter-Belmont_original-Serio-color_76
+    21300154: New-Richter-Belmont_original-Serio-color_77
+    21300156: New-Richter-Belmont_original-Serio-color_78
+    21300158: New-Richter-Belmont_original-Serio-color_79
+    21300160: New-Richter-Belmont_original-Serio-color_80
+    21300162: New-Richter-Belmont_original-Serio-color_81
+    21300164: New-Richter-Belmont_original-Serio-color_82
+    21300166: New-Richter-Belmont_original-Serio-color_83
+    21300168: New-Richter-Belmont_original-Serio-color_84
+    21300170: New-Richter-Belmont_original-Serio-color_85
+    21300172: New-Richter-Belmont_original-Serio-color_86
+    21300174: New-Richter-Belmont_original-Serio-color_87
+    21300176: New-Richter-Belmont_original-Serio-color_88
+    21300178: New-Richter-Belmont_original-Serio-color_89
+    21300180: New-Richter-Belmont_original-Serio-color_90
+    21300182: New-Richter-Belmont_original-Serio-color_91
+    21300184: New-Richter-Belmont_original-Serio-color_92
+    21300186: New-Richter-Belmont_original-Serio-color_93
+    21300188: New-Richter-Belmont_original-Serio-color_94
+    21300190: New-Richter-Belmont_original-Serio-color_95
+    21300192: New-Richter-Belmont_original-Serio-color_96
+    21300194: New-Richter-Belmont_original-Serio-color_97
+    21300196: New-Richter-Belmont_original-Serio-color_98
+    21300198: New-Richter-Belmont_original-Serio-color_99
+    21300200: New-Richter-Belmont_original-Serio-color_100
+    21300202: New-Richter-Belmont_original-Serio-color_101
+    21300204: New-Richter-Belmont_original-Serio-color_102
+    21300206: New-Richter-Belmont_original-Serio-color_103
+    21300208: New-Richter-Belmont_original-Serio-color_104
+    21300210: New-Richter-Belmont_original-Serio-color_105
+    21300212: New-Richter-Belmont_original-Serio-color_106
+    21300214: New-Richter-Belmont_original-Serio-color_107
+    21300216: New-Richter-Belmont_original-Serio-color_108
+    21300218: New-Richter-Belmont_original-Serio-color_109
+    21300220: New-Richter-Belmont_original-Serio-color_110
+    21300222: New-Richter-Belmont_original-Serio-color_111
+    21300224: New-Richter-Belmont_original-Serio-color_112
+    21300226: New-Richter-Belmont_original-Serio-color_113
+    21300228: New-Richter-Belmont_original-Serio-color_114
+    21300230: New-Richter-Belmont_original-Serio-color_115
+    21300232: New-Richter-Belmont_original-Serio-color_116
+    21300234: New-Richter-Belmont_original-Serio-color_117
+    21300236: New-Richter-Belmont_original-Serio-color_118
+    21300238: New-Richter-Belmont_original-Serio-color_119
+    21300240: New-Richter-Belmont_original-Serio-color_120
+    21300242: New-Richter-Belmont_original-Serio-color_121
+    21300244: New-Richter-Belmont_original-Serio-color_122
+    21300246: New-Richter-Belmont_original-Serio-color_123
+    21300248: New-Richter-Belmont_original-Serio-color_124
+    21300250: New-Richter-Belmont_original-Serio-color_125
+    21300252: New-Richter-Belmont_original-Serio-color_126
+    21300254: New-Richter-Belmont_original-Serio-color_127
+    21300256: New-Richter-Belmont_original-Serio-color_128
+    21300258: New-Richter-Belmont_original-Serio-color_129
+    21300260: New-Richter-Belmont_original-Serio-color_130
+    21300262: New-Richter-Belmont_original-Serio-color_131
+    21300264: New-Richter-Belmont_original-Serio-color_132
+    21300266: New-Richter-Belmont_original-Serio-color_133
+    21300268: New-Richter-Belmont_original-Serio-color_134
+    21300270: New-Richter-Belmont_original-Serio-color_135
+    21300272: New-Richter-Belmont_original-Serio-color_136
+    21300274: New-Richter-Belmont_original-Serio-color_137
+    21300276: New-Richter-Belmont_original-Serio-color_138
+    21300278: New-Richter-Belmont_original-Serio-color_139
+    21300280: New-Richter-Belmont_original-Serio-color_140
+    21300282: New-Richter-Belmont_original-Serio-color_141
+    21300284: New-Richter-Belmont_original-Serio-color_142
+    21300286: New-Richter-Belmont_original-Serio-color_143
+    21300288: New-Richter-Belmont_original-Serio-color_144
+    21300290: New-Richter-Belmont_original-Serio-color_145
+    21300292: New-Richter-Belmont_original-Serio-color_146
+    21300294: New-Richter-Belmont_original-Serio-color_147
+    21300296: New-Richter-Belmont_original-Serio-color_148
+    21300298: New-Richter-Belmont_original-Serio-color_149
+    21300300: New-Richter-Belmont_original-Serio-color_150
+    21300302: New-Richter-Belmont_original-Serio-color_151
+    21300304: New-Richter-Belmont_original-Serio-color_152
+    21300306: New-Richter-Belmont_original-Serio-color_153
+    21300308: New-Richter-Belmont_original-Serio-color_154
+    21300310: New-Richter-Belmont_original-Serio-color_155
+    21300312: New-Richter-Belmont_original-Serio-color_156
+    21300314: New-Richter-Belmont_original-Serio-color_157
+    21300316: New-Richter-Belmont_original-Serio-color_158
+    21300318: New-Richter-Belmont_original-Serio-color_159
+    21300320: New-Richter-Belmont_original-Serio-color_160
+    21300322: New-Richter-Belmont_original-Serio-color_161
+    21300324: New-Richter-Belmont_original-Serio-color_162
+    21300326: New-Richter-Belmont_original-Serio-color_163
+    21300328: New-Richter-Belmont_original-Serio-color_164
+    21300330: New-Richter-Belmont_original-Serio-color_165
+    21300332: New-Richter-Belmont_original-Serio-color_166
+    21300334: New-Richter-Belmont_original-Serio-color_167
+    21300336: New-Richter-Belmont_original-Serio-color_168
+    21300338: New-Richter-Belmont_original-Serio-color_169
+    21300340: New-Richter-Belmont_original-Serio-color_170
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: New-Richter-Belmont_original-Serio-color_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 728
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 728
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 728
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 728
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 728
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 728
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 728
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 728
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 728
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 728
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 680
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 680
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 680
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 680
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 680
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 680
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 680
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 680
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 681
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 684
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 681
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_22
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 682
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 680
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 680
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 628
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 639
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 636
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 641
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 632
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 568
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 576
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 580
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 581
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 587
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 583
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 572
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 568
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 19}
+        - {x: -0.5, y: 19}
+        - {x: -17.5, y: 6}
+        - {x: -17.5, y: -8}
+        - {x: -5.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 13.5, y: -17}
+        - {x: 13.5, y: -16}
+        - {x: 17.5, y: -6}
+    - name: New-Richter-Belmont_original-Serio-color_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 568
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 568
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 568
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 568
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 568
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 520
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 520
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 520
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 524
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20}
+        - {x: -14, y: 14}
+        - {x: -17, y: 9}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 14}
+        - {x: 15, y: 20}
+    - name: New-Richter-Belmont_original-Serio-color_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 520
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 22}
+        - {x: -16, y: 7}
+        - {x: -16, y: -15}
+        - {x: -4, y: -22}
+        - {x: 16, y: -22}
+        - {x: 16, y: 22}
+    - name: New-Richter-Belmont_original-Serio-color_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 520
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 520
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 522
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 21}
+        - {x: -5.5, y: 20}
+        - {x: -17.5, y: -1}
+        - {x: -17.5, y: -18}
+        - {x: -7.5, y: -21}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 15}
+        - {x: 15.5, y: 21}
+    - name: New-Richter-Belmont_original-Serio-color_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 520
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 520
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_53
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 520
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -16, y: 13.5}
+        - {x: -16, y: 2.5}
+        - {x: -13, y: 2.5}
+        - {x: -14, y: -17.5}
+        - {x: -12, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: -5.5}
+        - {x: 14, y: 5.5}
+        - {x: 2, y: 18.5}
+    - name: New-Richter-Belmont_original-Serio-color_54
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 524
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 523
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 472
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 472
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 472
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 472
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 472
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: 11}
+        - {x: -19, y: -18}
+        - {x: -18, y: -20}
+        - {x: 15, y: -20}
+        - {x: 19, y: -3}
+        - {x: 19, y: 19}
+        - {x: 17, y: 20}
+    - name: New-Richter-Belmont_original-Serio-color_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 472
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -18, y: 13}
+        - {x: -19, y: 8}
+        - {x: -19, y: -19}
+        - {x: -18, y: -20}
+        - {x: 10, y: -20}
+        - {x: 19, y: 4}
+        - {x: 19, y: 13}
+        - {x: 13, y: 20}
+    - name: New-Richter-Belmont_original-Serio-color_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 472
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 20}
+        - {x: -16.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: -17.5, y: -20}
+        - {x: 13.5, y: -20}
+        - {x: 17.5, y: -6}
+        - {x: 17.5, y: 20}
+    - name: New-Richter-Belmont_original-Serio-color_63
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 472
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_64
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 472
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 473
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 475
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -11}
+        - {x: -14.5, y: -21}
+        - {x: 10.5, y: -21}
+        - {x: 16.5, y: -20}
+        - {x: 16.5, y: 18}
+        - {x: 9.5, y: 21}
+    - name: New-Richter-Belmont_original-Serio-color_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 506
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_68
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_69
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 488
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_70
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 488
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 483
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_72
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 475
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_73
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 475
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 440
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 440
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 440
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_77
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 440
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_78
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 440
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_79
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 440
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_80
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 440
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 392
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 396
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 400
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 16}
+        - {x: -25, y: -16}
+        - {x: -3, y: -16}
+        - {x: 25, y: -6}
+        - {x: 25, y: 5}
+        - {x: 1, y: 16}
+    - name: New-Richter-Belmont_original-Serio-color_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 400
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 16}
+        - {x: -30, y: -16}
+        - {x: 5, y: -16}
+        - {x: 30, y: -8}
+        - {x: 30, y: 9}
+        - {x: 17, y: 16}
+    - name: New-Richter-Belmont_original-Serio-color_85
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 393
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -0.5}
+        - {x: -1, y: 2.5}
+        - {x: 2, y: 7.5}
+        - {x: 0, y: -1.5}
+        - {x: 1, y: -4.5}
+        - {x: 21, y: -3.5}
+        - {x: 30, y: 1.5}
+        - {x: 30, y: 12.5}
+        - {x: 26, y: 20.5}
+        - {x: -30, y: 20.5}
+        - {x: -30, y: 3.5}
+        - {x: -12, y: -20.5}
+        - {x: -2, y: -20.5}
+        - {x: 2, y: -11.5}
+        - {x: 1, y: -5.5}
+        - {x: 0, y: -4.5}
+    - name: New-Richter-Belmont_original-Serio-color_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 393
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20.5}
+        - {x: -16, y: 0.5}
+        - {x: -8, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 20.5}
+    - name: New-Richter-Belmont_original-Serio-color_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 393
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_88
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 393
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_89
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 393
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_90
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 393
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 344
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 344
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_94
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 344
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_95
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 344
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_97
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 317
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -15}
+        - {x: 22.5, y: -14}
+        - {x: 37.5, y: -13}
+        - {x: 39.5, y: -11}
+        - {x: 39.5, y: 6}
+        - {x: 30.5, y: 6}
+        - {x: 30.5, y: 7}
+        - {x: 28.5, y: 9}
+        - {x: 31.5, y: 7}
+        - {x: 34.5, y: 7}
+        - {x: 37.5, y: 8}
+        - {x: 39.5, y: 10}
+        - {x: 39.5, y: 20}
+        - {x: 33.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -39.5, y: 8}
+        - {x: -39.5, y: -20}
+        - {x: -34.5, y: -23}
+        - {x: -23.5, y: -23}
+        - {x: 14.5, y: -3}
+        - {x: 15.5, y: -1}
+        - {x: 15.5, y: -10}
+      - - {x: -12.5, y: 12}
+        - {x: -12.5, y: 14}
+        - {x: -16.5, y: 19}
+        - {x: -31.5, y: 19}
+        - {x: -39.5, y: 15}
+        - {x: -39.5, y: 2}
+        - {x: -29.5, y: 2}
+        - {x: -26.5, y: 5}
+        - {x: -26.5, y: 8}
+        - {x: -14.5, y: 10}
+    - name: New-Richter-Belmont_original-Serio-color_98
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 320
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: -7, y: 24}
+        - {x: -9, y: 17}
+        - {x: -11, y: 5}
+        - {x: -21, y: 2}
+        - {x: -21, y: 3}
+        - {x: -23, y: 5}
+        - {x: -20, y: 3}
+        - {x: -17, y: 3}
+        - {x: -14, y: 4}
+        - {x: -11, y: 7}
+        - {x: -10, y: 11}
+        - {x: -10, y: 16}
+        - {x: -33, y: 15}
+        - {x: -33, y: -19}
+        - {x: -12, y: -24}
+        - {x: 16, y: -24}
+        - {x: 19, y: -18}
+        - {x: 33, y: -4}
+        - {x: 33, y: 14}
+      - - {x: 27, y: -2}
+        - {x: 27, y: -17}
+        - {x: 32, y: -19}
+        - {x: 33, y: -19}
+        - {x: 33, y: -3}
+        - {x: 30, y: -2}
+    - name: New-Richter-Belmont_original-Serio-color_99
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 344
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_100
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 344
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_101
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 313
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_102
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 311
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 263
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 263
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -18.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 27.5, y: -9.5}
+        - {x: 27.5, y: 19.5}
+        - {x: 18.5, y: 22.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -8.5, y: 18.5}
+        - {x: 0.5, y: 18.5}
+        - {x: 0.5, y: 17.5}
+        - {x: -5.5, y: 18.5}
+        - {x: -11.5, y: 18.5}
+        - {x: -22.5, y: 14.5}
+        - {x: -27.5, y: 11.5}
+        - {x: -27.5, y: -7.5}
+        - {x: -26.5, y: -7.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -18.5, y: 7.5}
+        - {x: -22.5, y: -3.5}
+        - {x: -25.5, y: -22.5}
+        - {x: 8.5, y: -22.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 8.5, y: -18.5}
+        - {x: -0.5, y: -18.5}
+    - name: New-Richter-Belmont_original-Serio-color_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 264
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -21, y: 1}
+        - {x: -21, y: -22}
+        - {x: -3, y: -22}
+        - {x: 21, y: -9}
+        - {x: 21, y: 16}
+        - {x: 17, y: 22}
+    - name: New-Richter-Belmont_original-Serio-color_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 263
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_110
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 263
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 16}
+        - {x: -3, y: 16}
+        - {x: -21, y: 5}
+        - {x: -21, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -15}
+        - {x: 10, y: -12}
+        - {x: 21, y: -3}
+    - name: New-Richter-Belmont_original-Serio-color_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 263
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 19.5}
+        - {x: -23.5, y: -19.5}
+        - {x: -0.5, y: -19.5}
+        - {x: 23.5, y: -6.5}
+        - {x: 23.5, y: 19.5}
+    - name: New-Richter-Belmont_original-Serio-color_112
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 259
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -11}
+        - {x: -14.5, y: -21}
+        - {x: 10.5, y: -21}
+        - {x: 16.5, y: -20}
+        - {x: 16.5, y: 18}
+        - {x: 9.5, y: 21}
+    - name: New-Richter-Belmont_original-Serio-color_113
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 264
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_114
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 264
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -16, y: 13.5}
+        - {x: -16, y: 2.5}
+        - {x: -13, y: 2.5}
+        - {x: -14, y: -17.5}
+        - {x: -12, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: -5.5}
+        - {x: 14, y: 5.5}
+        - {x: 2, y: 18.5}
+    - name: New-Richter-Belmont_original-Serio-color_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_116
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 200
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_117
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 27.5}
+        - {x: 15, y: 27.5}
+        - {x: 4, y: -0.5}
+        - {x: -5, y: 11.5}
+        - {x: -15, y: 13.5}
+        - {x: -22, y: 6.5}
+        - {x: -31, y: -22.5}
+        - {x: -31, y: -27.5}
+        - {x: 31, y: -27.5}
+        - {x: 31, y: -19.5}
+        - {x: 28, y: 1.5}
+    - name: New-Richter-Belmont_original-Serio-color_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_119
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_120
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 200
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_121
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 200
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_122
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 200
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 152
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 152
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_127
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 152
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 21.5}
+        - {x: -0.5, y: 15.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -20.5, y: 21.5}
+        - {x: -25.5, y: 14.5}
+        - {x: -30.5, y: -14.5}
+        - {x: -30.5, y: -21.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 30.5, y: -9.5}
+        - {x: 25.5, y: 15.5}
+        - {x: 20.5, y: 21.5}
+    - name: New-Richter-Belmont_original-Serio-color_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_130
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_131
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_132
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_133
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_134
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_135
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 104
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -45.5}
+        - {x: 18, y: -45.5}
+        - {x: 18, y: 32.5}
+        - {x: 6, y: 45.5}
+        - {x: -6, y: 45.5}
+        - {x: -18, y: 17.5}
+    - name: New-Richter-Belmont_original-Serio-color_136
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_137
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 152
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -16, y: 17}
+        - {x: -16, y: -23}
+        - {x: 16, y: -23}
+        - {x: 16, y: 23}
+    - name: New-Richter-Belmont_original-Serio-color_140
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_141
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_142
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_143
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 74
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 104
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_145
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 104
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_146
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 104
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_147
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 105
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_149
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_150
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_151
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 72
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_152
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 73
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_153
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 73
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 69
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_155
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_156
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 16
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_158
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_159
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_160
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 16
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_161
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 16
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_162
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_163
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 16
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_164
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_165
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_166
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_167
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 16
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_168
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 16
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_169
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 16
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New-Richter-Belmont_original-Serio-color_170
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 16
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
