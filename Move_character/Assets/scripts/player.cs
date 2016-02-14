@@ -1,9 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
+using System;
 
-public class player : MonoBehaviour {
+[Serializable]
+public class Player : MonoBehaviour {
 
+    public int myScene;
     public float velocidade;
     public float forcaPulo;
     public float upForce;
@@ -17,10 +20,14 @@ public class player : MonoBehaviour {
     private Animator animator;
     public GameObject prefab;
     public GameObject transformation;
+    public MyPlayer oPlayer;
     
+
     //Tudo que ocorre quando o personagem e criado
     void Start()
     {
+       
+        oPlayer = new MyPlayer();
         estaNoChao = true;
         animator = spritePlayer.GetComponent<Animator>();
     }
@@ -35,10 +42,8 @@ public class player : MonoBehaviour {
 
     private IEnumerator KillOnAnimationEnd(GameObject gameObject)
     {
-
         yield return new WaitForSeconds(0.13f);
         Destroy(gameObject);
-
     }
 
 
@@ -138,7 +143,6 @@ public class player : MonoBehaviour {
 
     }
 
- 
-
+  
 }
 
